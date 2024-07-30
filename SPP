@@ -820,7 +820,10 @@
       </div> 
       <div id="form2" class="form-container">
         <form novalidate>
+          <div class="row">
             <input type="text" placeholder="Nickname(s)" required />
+            <input type="text" placeholder="Motivos" required />
+          </div>
             <select required>
               <option value="" disabled selected>Cargo</option>
               <option value="Analista">Analista</option>
@@ -829,8 +832,8 @@
               <option value="Comandante">Comandante</option>
             </select>
             <div class="row">
-            <input type="text" placeholder="Motivos" required />
             <input type="text" placeholder="Comprovações" required />
+            <input type="text" placeholder="Permissão" required />
           </div>
           <div class="row">
           <input type="text" placeholder="Data de Entrada" required />
