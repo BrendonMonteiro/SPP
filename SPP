@@ -873,7 +873,7 @@
               <option value="Sub-Comandante">Sub-Comandante</option>
             </select>
             <select required>
-              <option value="" disabled selected>Novo</option>
+              <option value="" disabled selected>Novo cargo</option>
               <option value="Perito">Perito</option>
               <option value="Sub-Comandante">Sub-Comandante</option>
               <option value="Comandante">Comandante</option>
